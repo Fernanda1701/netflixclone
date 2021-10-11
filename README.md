@@ -34,6 +34,7 @@ Ao clicar-mos em cada uma delas, somos direcionados aos respectivos conteúdos.
 - [x] Mais Informações
 
 Esses botões também possuem redirecionamentos para seus respectivos sites oficiais.
+<p>A barra de rolagem lateral é infinita e pode ser manipulada tanto pelas "bolinhas" abaixo, quanto segurando o click e movimentando o mouse.</p>
 
 <h3 align="center">Responsividade</h3>
 

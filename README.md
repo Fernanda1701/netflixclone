@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">Eatflix 📱📲</a>
+    <a href="https://github.com/Fernanda1701/netflixclone">Eatflix 📱📲</a>
 </h1>
 <p align="center">Um clone inspirado na interface <b>Netflix</b> com tema culinário 🍝</p>
 

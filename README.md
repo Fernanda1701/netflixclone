@@ -52,7 +52,7 @@ Como podemos observar na demonstração acima, foi implementada, também, a func
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Jquery](https://jquery.com/)
 - [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/index.html)
-- Versionamento de código no [GitHub](https://github.com/)
+- Versionamento de código no [Git](https://git-scm.com/)
 
 ## 💻 IDE
 
